@@ -1,4 +1,4 @@
-# C++ Smart Thermostat Simulator
+# Smart Thermostat Simulator
 
 A comprehensive C++ simulation of a smart thermostat system with realistic HVAC control, weather integration, energy monitoring, and user interface.
 
